@@ -2,7 +2,7 @@
 * Hardware and software description of paramotor software
 * Inspired Zach Whitehead OpenPPG 2019 https://openppg.com/
 * and Lasersaber https://www.youtube.com/watch?v=4NBg-yiv9Lo
-* Copyright (c) <Bas Kasteel>
+* Copyright Bas Kasteel
 * Main Features:
 * Use of dual core for microprocessor load levelling 
 * Prevent brownout when activating WiFi (ESP32 bug)

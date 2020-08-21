@@ -14,4 +14,4 @@
 * RPM measurement from motor
 *  OTA update possibility
 *  Cruise control
- [This is a link](https://github.com/krulkip/Paramotor-ESP32/blob/master/Paramotorv006.jpg?raw=true)
+ (https://github.com/krulkip/Paramotor-ESP32/blob/master/Paramotorv006.jpg?raw=true)

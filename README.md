@@ -1,4 +1,4 @@
-* # Paramotor-ESP32
+## Paramotor-ESP32
 * Hardware and software description of paramotor software
 * Inspired Zach Whitehead OpenPPG 2019 https://openppg.com/
 * and Lasersaber https://www.youtube.com/watch?v=4NBg-yiv9Lo
@@ -14,4 +14,4 @@
 * RPM measurement from motor
 *  OTA update possibility
 *  Cruise control
-  
+ [This is a link](https://github.com/krulkip/Paramotor-ESP32/blob/master/Paramotorv006.jpg?raw=true)

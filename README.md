@@ -15,3 +15,4 @@
 *  OTA update possibility
 *  Cruise control
 ![text](https://github.com/krulkip/Paramotor-ESP32/blob/master/Paramotorv006.jpg?raw=true)
+![text](https://github.com/krulkip/Paramotor-ESP32/blob/master/Controls-details.jpg?raw=true)
